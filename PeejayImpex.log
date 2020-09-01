@@ -1,0 +1,1915 @@
+2015-06-01 18:28:20,807 [5] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-01 18:28:20,813 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-04 14:57:21,679 [10] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-04 14:57:21,730 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-04 15:07:58,017 [19] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-04 15:14:30,949 [18] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-04 17:58:42,141 [9] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-04 17:58:42,351 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-05 12:43:45,999 [11] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 12:43:46,040 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-05 13:49:00,791 [15] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 13:49:07,410 [11] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 13:59:13,449 [10] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 14:52:59,758 [12] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 14:52:59,830 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-05 16:17:13,235 [38] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 16:17:13,261 [38] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-05 18:14:44,531 [19] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-05 18:14:44,559 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-06 10:31:10,640 [14] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-06 10:43:14,368 [21] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-06 14:12:12,249 [20] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-06 14:12:12,280 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-06 15:21:20,670 [10] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-06 15:21:20,695 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-06 17:43:26,940 [14] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-06 18:27:33,357 [10] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 11:22:23,491 [10] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 11:30:15,445 [13] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 11:30:41,953 [14] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 11:38:14,850 [5] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 11:44:09,090 [28] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 12:20:47,020 [29] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 14:01:02,171 [49] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 14:01:02,173 [49] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-08 14:36:37,626 [13] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 18:08:31,979 [12] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-08 18:08:32,007 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-09 12:41:41,425 [5] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-09 12:41:41,465 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-09 14:50:18,771 [5] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-09 14:50:18,849 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-09 16:19:19,583 [8] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-09 17:40:11,310 [15] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-10 12:16:40,902 [5] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-10 12:16:40,958 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-10 13:33:27,450 [10] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-10 13:33:27,477 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-10 13:47:57,261 [12] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-10 18:01:02,665 [29] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-10 18:01:02,691 [29] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-11 13:44:04,485 [13] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-11 13:44:04,537 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-11 15:28:32,885 [25] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-11 15:28:33,024 [25] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 10:19:57,169 [11] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 10:19:57,226 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 11:45:21,059 [29] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 11:45:21,087 [29] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 14:59:59,590 [11] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 14:59:59,640 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 18:11:37,717 [29] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 18:11:37,813 [29] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 18:14:23,876 [11] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-12 18:14:27,181 [15] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 18:14:27,182 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 18:14:39,172 [9] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-12 18:14:41,586 [15] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 18:14:41,588 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 18:14:53,534 [29] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-12 18:15:17,846 [27] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 18:17:58,020 [26] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:19:46,254 [9] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-12 18:19:48,934 [11] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-12 18:20:06,223 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:20:20,033 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:22:04,199 [26] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:22:07,559 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:23:11,401 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:25:07,939 [26] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-12 18:25:07,998 [26] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-12 18:25:18,224 [9] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-12 18:25:31,830 [26] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:25:50,620 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:26:15,687 [26] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:26:28,661 [26] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-12 18:36:46,686 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:21:48,407 [14] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:23:53,075 [16] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:24:10,236 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:24:57,782 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:25:09,801 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:39:06,524 [13] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:39:13,315 [16] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:39:25,833 [17] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:39:45,872 [17] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:39:56,586 [16] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:40:12,977 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:40:20,564 [18] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:42:03,156 [18] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:42:03,210 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:42:06,624 [23] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:42:13,416 [23] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:42:13,454 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:42:16,880 [23] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:42:23,621 [22] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:42:23,659 [22] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:42:27,034 [23] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:42:36,116 [23] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:42:36,154 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:42:40,789 [23] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:42:53,033 [23] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 11:43:04,211 [21] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:43:04,248 [21] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:43:16,121 [23] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:44:04,766 [21] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 11:44:04,816 [21] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:44:26,018 [25] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 11:46:10,015 [25] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-13 11:46:10,061 [25] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:46:13,275 [25] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-13 11:46:22,742 [25] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-13 11:46:22,781 [25] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:46:27,343 [25] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-13 11:46:36,354 [27] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-13 11:46:36,393 [27] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 11:46:43,337 [28] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-13 11:46:51,652 [24] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-13 11:46:51,689 [24] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 14:36:31,243 [28] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 14:36:38,065 [41] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 14:36:38,066 [41] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 15:10:36,202 [36] INFO UserControls_MainMenu [(null)] - User 'TEST' logged out successfully.
+2015-06-13 15:09:10,025 [36] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 15:09:10,064 [36] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 16:05:43,124 [44] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 16:05:43,148 [44] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 16:15:44,355 [19] INFO UserControls_MainMenu [(null)] - User 'Test' logged out successfully.
+2015-06-13 16:15:50,268 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:15:57,921 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:16:04,573 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:16:45,848 [19] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 16:16:45,886 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 16:27:45,764 [19] INFO UserControls_MainMenu [(null)] - User 'Test' logged out successfully.
+2015-06-13 16:28:02,109 [19] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-13 16:28:02,149 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-13 16:32:59,981 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:33:07,932 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:33:13,409 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:33:22,849 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:33:49,178 [20] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:34:13,463 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:34:41,894 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-13 16:35:52,521 [19] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-15 10:08:31,565 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-15 10:08:43,673 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-15 10:09:05,729 [10] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 10:09:52,121 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-15 10:10:02,824 [10] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 10:27:30,133 [36] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 10:29:25,771 [33] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:16:43,725 [28] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 11:16:43,764 [28] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:19:01,545 [29] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:20:14,939 [31] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 11:20:14,940 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:24:06,110 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-15 11:24:48,511 [9] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-15 11:28:07,115 [12] INFO UserControls_MainMenu [(null)] - User 'Test' logged out successfully.
+2015-06-15 11:28:14,935 [11] INFO Default2 [(null)] - User 'TEST' Logged in successfully.
+2015-06-15 11:28:15,028 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:28:20,039 [12] INFO UserControls_MainMenu [(null)] - User 'Test' logged out successfully.
+2015-06-15 11:29:35,607 [12] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 11:29:35,649 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:36:38,910 [14] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:36:47,589 [18] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 11:36:47,590 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:37:19,471 [15] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:37:19,971 [14] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:37:49,311 [17] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-15 11:46:24,763 [19] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 11:46:24,952 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:46:28,028 [21] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:50:54,331 [29] INFO Default2 [(null)] - User 'ADMIN' Logged in successfully.
+2015-06-15 11:50:54,364 [29] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:50:37,415 [23] INFO UserControls_MainMenu [(null)] - User 'ADMIN' logged out successfully.
+2015-06-15 11:51:57,138 [23] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-15 11:52:48,044 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 11:52:48,082 [21] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 11:54:21,269 [21] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-15 12:13:29,824 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 12:13:29,866 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 13:13:42,745 [39] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 13:13:42,746 [39] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 14:05:42,437 [23] INFO Default2 [(null)] - User 'Test' Logged in successfully.
+2015-06-15 14:05:42,474 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 15:34:07,732 [12] INFO Default2 [(null)] - User 'Test' Logged in successfully.
+2015-06-15 15:34:14,409 [12] INFO UserControls_MainMenu [(null)] - User 'Test' logged out successfully.
+2015-06-15 15:34:24,061 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 15:34:24,103 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 15:34:33,504 [12] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-15 15:39:43,586 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 15:39:43,624 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 15:39:48,810 [5] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-15 16:05:33,625 [14] INFO Default2 [(null)] - User 'Test' Logged in successfully.
+2015-06-15 16:12:15,721 [5] INFO UserControls_MainMenu [(null)] - User 'Test' logged out successfully.
+2015-06-15 16:12:23,516 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 16:12:23,517 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 16:12:27,061 [5] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-15 16:12:35,782 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-15 16:12:35,783 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-15 16:33:50,708 [26] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-15 16:35:26,122 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 10:31:36,480 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 10:31:46,353 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:32:03,265 [5] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 10:32:17,006 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 10:32:30,152 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:32:30,153 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:34:09,093 [13] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 10:34:35,393 [10] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 10:34:35,394 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:37:50,662 [10] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-16 10:45:07,119 [17] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 10:45:07,120 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:45:34,332 [23] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-16 10:45:42,048 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:45:42,048 [22] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:46:02,329 [21] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 10:46:47,348 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:46:47,349 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:52:24,891 [27] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 10:52:40,471 [27] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 10:52:46,759 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:52:46,760 [29] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:54:33,961 [31] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 10:54:40,548 [40] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 10:55:11,736 [36] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 10:56:04,289 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:56:04,291 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 10:56:37,420 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:59:23,524 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 10:59:27,975 [9] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 10:59:58,883 [13] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 10:59:58,922 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 11:00:10,044 [10] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-16 11:00:18,398 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-16 11:00:26,043 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 11:00:26,080 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 11:00:53,744 [10] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-16 11:01:08,333 [13] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 11:01:08,369 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 11:03:14,291 [15] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-16 11:03:29,611 [15] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 11:03:29,649 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 11:09:54,045 [20] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-16 11:10:00,443 [20] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 11:10:00,479 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 11:11:51,375 [12] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-16 11:11:57,747 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 11:13:31,774 [12] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 11:13:31,775 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 12:03:51,226 [18] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-16 12:54:17,402 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 12:54:17,441 [26] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-16 16:14:29,810 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-16 16:14:29,882 [22] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-17 12:33:47,582 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-17 13:51:39,561 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-17 13:51:39,693 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-17 14:43:14,427 [18] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-17 14:43:14,428 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-17 15:55:29,777 [11] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-17 16:42:50,388 [9] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-17 16:43:01,511 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-18 10:51:16,891 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-18 10:51:24,376 [15] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-18 10:52:04,094 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 10:52:04,121 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 11:08:44,491 [13] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-18 11:08:51,779 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-18 11:09:00,996 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 11:09:00,997 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 12:59:24,799 [24] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-18 12:59:38,577 [24] ERROR Default2 [(null)] - Exception of type 'System.Exception' was thrown.
+2015-06-18 13:00:19,084 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 13:00:19,085 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 13:01:43,818 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 13:01:43,819 [24] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 13:04:10,392 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 13:04:10,416 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 13:05:04,588 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 13:05:04,589 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 15:39:53,226 [68] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 15:39:53,227 [68] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 15:45:48,552 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-18 15:45:48,645 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-18 16:58:57,356 [17] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-18 17:12:18,694 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-18 17:12:26,584 [10] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-18 17:12:26,585 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-24 17:16:30,692 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:16:37,992 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:17:01,300 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:17:13,385 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:17:23,840 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:17:36,588 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:18:55,526 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:19:01,614 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:19:18,286 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 17:19:39,611 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-24 17:19:39,633 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-24 17:37:42,369 [16] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-24 17:38:03,656 [14] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-24 17:38:03,657 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-24 18:02:16,758 [8] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-24 18:02:25,150 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 18:02:34,092 [8] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-06-24 18:02:34,132 [8] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-24 18:16:16,946 [10] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-06-24 18:16:25,325 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-06-24 18:16:57,043 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-24 18:16:57,067 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-24 18:17:24,793 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-24 18:17:24,836 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-30 16:45:39,254 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-30 16:48:44,076 [9] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-06-30 16:48:53,243 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-30 16:48:53,367 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-06-30 17:19:03,218 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-06-30 18:16:08,495 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-01 11:51:09,178 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-01 11:51:09,227 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-01 12:13:02,353 [12] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-01 12:13:52,328 [8] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-07-01 12:13:52,380 [8] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-01 12:14:15,557 [11] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-07-01 12:14:22,258 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-01 12:14:28,374 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-01 12:15:09,797 [10] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-01 12:15:28,382 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-01 12:15:35,224 [10] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-07-01 12:15:35,261 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-01 12:18:25,808 [16] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-07-01 12:18:33,812 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-01 12:18:33,848 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-01 14:04:58,251 [50] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-01 14:12:51,538 [68] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-01 14:12:59,027 [68] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-01 14:13:06,289 [20] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-01 14:13:06,290 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-01 14:13:19,995 [20] INFO UserControls_MainMenu [(null)] - User 'YADU' logged out successfully.
+2015-07-01 14:13:30,426 [50] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-01 14:13:37,155 [68] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-07-01 14:13:37,155 [68] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-01 14:13:45,583 [22] INFO UserControls_MainMenu [(null)] - User 'Specky' logged out successfully.
+2015-07-01 14:13:51,017 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-01 14:13:51,018 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-03 17:46:22,630 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-03 17:46:22,755 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-03 17:49:51,462 [12] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-04 18:33:24,452 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-09 14:00:05,526 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-09 15:29:02,909 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-09 15:29:02,987 [6] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-09 18:24:12,344 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-09 18:24:12,373 [36] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 11:40:32,549 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-10 11:40:32,620 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 14:52:33,552 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-10 14:52:33,599 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 16:16:46,749 [17] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-10 16:53:18,369 [32] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-10 16:56:51,457 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-10 16:59:33,989 [19] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-10 16:59:41,773 [30] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-10 16:59:41,774 [30] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 17:04:17,450 [33] INFO UserControls_MainMenu [(null)] - User 'YADU' logged out successfully.
+2015-07-10 17:04:26,510 [31] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-10 17:04:26,511 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 17:04:35,981 [31] INFO UserControls_MainMenu [(null)] - User 'YADU' logged out successfully.
+2015-07-10 17:04:41,283 [33] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-10 17:04:41,284 [33] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 17:06:28,955 [19] INFO UserControls_MainMenu [(null)] - User 'YADU' logged out successfully.
+2015-07-10 17:06:35,791 [33] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-10 17:06:41,936 [34] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-10 17:06:41,937 [34] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-10 17:59:41,853 [21] INFO UserControls_MainMenu [(null)] - User 'YADU' logged out successfully.
+2015-07-11 11:48:07,142 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-11 11:49:39,140 [10] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-11 11:49:46,941 [10] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-11 11:49:47,053 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-11 11:55:20,855 [11] INFO UserControls_MainMenu [(null)] - User 'YADU' logged out successfully.
+2015-07-11 11:55:28,564 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-11 11:55:28,599 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-11 12:25:10,347 [9] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-07-11 12:25:19,097 [19] INFO Default2 [(null)] - User 'YADU' Logged in successfully.
+2015-07-11 12:25:19,098 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-11 13:54:52,075 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-11 13:54:52,076 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-11 14:18:48,333 [25] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-11 14:19:03,895 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-11 14:19:03,896 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-11 15:53:17,655 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-11 15:53:17,705 [22] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-13 10:55:32,183 [7] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-13 10:55:32,370 [7] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-13 12:24:59,276 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-13 12:24:59,277 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-13 13:17:05,176 [17] INFO Default2 [(null)] - User 'Specky' Logged in successfully.
+2015-07-17 17:33:07,333 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-17 17:33:18,755 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-07-17 17:33:47,273 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-17 17:33:47,316 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-20 10:53:18,831 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-20 10:53:18,878 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-20 14:30:14,504 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-20 14:30:14,647 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-22 15:30:22,187 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-22 15:30:22,266 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-22 17:46:56,983 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-22 17:46:57,031 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-23 11:18:34,700 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-23 11:18:34,769 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-23 18:47:13,097 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-23 18:47:13,150 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-23 19:28:55,216 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-23 20:05:46,084 [49] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-24 10:34:59,587 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-26 12:23:19,292 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-26 13:19:12,845 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-26 13:19:12,912 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-26 16:16:05,224 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-26 17:29:55,910 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-26 17:29:55,995 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-27 10:46:01,110 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-27 12:29:41,492 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-27 18:57:17,813 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-28 11:37:24,908 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-28 14:20:47,166 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-28 14:20:47,542 [30] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-28 15:57:09,483 [38] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-28 15:57:09,523 [38] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-28 17:07:59,060 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-28 18:59:35,451 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 10:23:54,253 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 12:01:57,712 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 12:01:57,866 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-29 13:17:41,500 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 13:17:41,537 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-29 14:21:10,691 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 14:21:10,725 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-29 14:55:21,774 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 15:45:19,431 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 15:56:05,799 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 16:04:50,427 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 16:45:11,372 [45] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 16:47:06,577 [7] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 17:36:25,714 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-29 18:59:38,103 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-30 13:04:37,527 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-30 14:17:32,229 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-30 14:17:32,370 [28] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-30 16:31:07,398 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-30 16:31:07,433 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-31 11:38:06,274 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-31 14:45:54,865 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-31 14:45:55,027 [21] ERROR Default2 [(null)] - Thread was being aborted.
+2015-07-31 16:24:16,272 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-07-31 16:24:16,326 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-01 09:52:48,791 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 09:52:48,848 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-01 12:10:07,775 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 12:10:07,776 [33] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-01 12:12:47,880 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 13:10:41,476 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 13:10:41,477 [28] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-01 13:48:46,674 [34] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-08-01 13:48:48,556 [38] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 13:48:48,700 [38] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-01 13:58:20,722 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 14:00:50,156 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 14:01:25,381 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 14:04:05,919 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 14:15:27,780 [37] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 14:36:32,797 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 14:38:24,247 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 15:13:36,209 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 16:13:17,066 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 16:40:10,858 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 16:46:16,260 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 17:58:55,638 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-01 17:58:55,639 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-01 18:09:24,998 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-03 12:01:00,134 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-03 13:19:43,684 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 11:49:44,224 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 11:49:44,300 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-04 14:18:55,561 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 14:18:55,640 [30] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-04 14:19:05,800 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-04 14:52:03,355 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-08-04 14:52:27,325 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 14:52:27,353 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-04 14:53:44,298 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-04 15:19:38,089 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-04 16:35:50,290 [46] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 16:40:09,647 [42] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-04 17:20:44,244 [5] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-04 18:33:59,678 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 18:33:59,733 [8] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-04 18:51:18,409 [55] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-04 18:51:18,665 [55] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-04 18:51:29,066 [51] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-05 12:38:10,659 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-05 12:38:25,191 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-05 13:53:48,290 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-05 13:54:00,481 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-05 14:03:21,396 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-05 14:03:32,417 [15] ERROR Reports_frm_loadFullProductionReport [(null)] - Object reference not set to an instance of an object.
+2015-08-05 14:06:06,530 [11] ERROR Reports_frm_loadFullProductionReport [(null)] - Object reference not set to an instance of an object.
+2015-08-05 14:07:02,957 [24] ERROR Reports_frm_loadFullProductionReport [(null)] - Object reference not set to an instance of an object.
+2015-08-05 14:07:23,170 [23] ERROR Reports_frm_loadFullProductionReport [(null)] - Object reference not set to an instance of an object.
+2015-08-05 14:07:57,649 [15] ERROR Reports_frm_loadFullProductionReport [(null)] - Object reference not set to an instance of an object.
+2015-08-05 14:21:20,623 [5] ERROR Reports_frm_loadFullProductionReport [(null)] - Object reference not set to an instance of an object.
+2015-08-05 14:21:48,026 [5] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-08-05 14:21:59,619 [5] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-08-05 14:22:43,675 [5] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-08-05 14:25:34,801 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 14:19:05,484 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-08-10 14:19:31,169 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-10 14:19:31,225 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-10 14:19:47,326 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 14:25:23,419 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-10 14:25:35,391 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 14:32:06,330 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 14:47:18,212 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 15:15:24,801 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 15:16:15,614 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 15:24:56,080 [5] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-10 15:26:12,787 [10] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-10 15:26:26,492 [5] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-10 15:26:55,070 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 15:40:10,705 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 15:40:11,042 [12] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-08-10 15:40:21,972 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 15:40:22,206 [17] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-08-10 15:41:19,687 [6] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-10 15:41:28,301 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 16:36:05,502 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 16:56:50,551 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 17:00:40,925 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 17:56:32,187 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-10 17:56:32,214 [8] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-10 18:00:17,302 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 18:04:27,203 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-10 18:04:36,723 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-10 18:09:25,068 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-13 10:24:35,565 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-08-13 10:31:14,377 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-13 10:31:14,428 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-13 12:39:11,925 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-13 12:39:12,056 [24] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-13 12:39:33,800 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 12:53:36,500 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-14 12:54:23,884 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 12:56:21,062 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 12:57:18,588 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 12:58:54,764 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 13:10:59,559 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 13:15:04,503 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 13:23:37,268 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 15:36:51,249 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-14 15:36:51,298 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-14 15:39:42,753 [9] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-14 15:39:48,631 [5] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-14 15:39:58,501 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 15:49:33,320 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 16:04:14,284 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-14 16:05:37,847 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-17 12:52:42,044 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-17 12:52:42,103 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-17 13:18:37,531 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-17 14:39:30,252 [13] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-17 14:40:50,022 [10] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-18 10:24:05,002 [7] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 10:24:05,036 [7] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-18 10:38:44,825 [8] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-08-18 10:39:46,919 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 10:39:46,920 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-18 10:46:26,137 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 13:57:29,050 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 13:57:29,255 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-18 15:11:05,118 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:11:10,992 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 15:11:11,032 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-18 15:11:47,202 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:13:01,230 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:26:56,581 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 15:26:56,665 [16] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-18 15:28:06,804 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:40:02,998 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 15:40:36,662 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:41:35,168 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:43:54,730 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 15:45:14,157 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:46:18,249 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:48:57,184 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 15:58:16,412 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-18 17:42:47,334 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-18 17:42:47,450 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-18 18:37:12,829 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-19 08:54:33,213 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-19 08:54:33,258 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-19 14:05:18,759 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-19 14:05:19,019 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-19 14:21:34,035 [12] INFO UserControls_MainMenu [(null)] - User 'Admin' logged out successfully.
+2015-08-19 15:16:42,334 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-19 15:16:42,335 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-19 16:48:51,591 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-19 16:48:51,685 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-19 17:55:18,483 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-19 18:08:30,255 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-20 11:27:05,164 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-20 11:27:05,236 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-20 14:22:26,661 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-20 16:12:25,734 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-08-20 16:12:32,596 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-20 16:12:32,619 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-20 17:15:26,819 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-20 17:15:26,887 [16] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-20 18:05:57,347 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-20 18:05:57,376 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-21 18:03:24,943 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-21 18:03:25,018 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-22 15:35:48,062 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-22 15:35:48,116 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-25 19:26:02,025 [6] ERROR Default2 [(null)] - Cannot find table 0.
+2015-08-25 19:26:33,579 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-25 19:26:33,710 [6] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-25 19:26:52,772 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-25 19:33:14,133 [14] ERROR _Reports_frm_loadProductionProcessWiser [(null)] - Object reference not set to an instance of an object.
+2015-08-25 19:33:14,134 [5] ERROR _Reports_frm_loadProductionProcessWiser [(null)] - Object reference not set to an instance of an object.
+2015-08-25 19:33:26,617 [8] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-08-25 19:35:26,560 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-25 19:38:02,877 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-25 19:42:09,538 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-25 19:44:38,767 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-25 19:52:50,460 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-25 19:53:14,407 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-08-27 18:36:28,536 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-08-27 18:37:06,354 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-27 18:37:06,408 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-08-28 13:06:37,279 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-08-28 13:06:37,337 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-02 15:25:11,322 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-02 15:25:11,406 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-02 17:57:42,353 [40] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-02 17:57:42,529 [40] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-03 13:53:16,075 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-03 13:53:16,107 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-04 11:37:57,818 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-04 11:37:57,866 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-04 11:44:01,454 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-04 11:44:01,494 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-04 11:44:02,846 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-04 11:44:02,850 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-04 16:03:59,778 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-04 16:03:59,841 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-04 19:05:10,063 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-04 19:05:10,092 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-05 10:42:19,523 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:43:10,218 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:43:17,748 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:52:38,887 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:54:35,770 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:54:53,609 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:55:06,763 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-05 10:55:41,167 [18] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-07 17:17:49,430 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-07 17:18:11,843 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-07 17:18:11,876 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-07 17:18:50,200 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-07 17:19:59,999 [7] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-07 17:21:09,821 [5] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-07 17:25:00,201 [9] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-07 17:25:28,044 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-07 17:26:53,939 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-07 17:32:23,001 [7] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 11:12:38,925 [7] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-08 11:28:45,999 [25] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-08 11:28:57,762 [26] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-08 11:29:11,711 [27] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-08 11:50:41,113 [7] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-08 11:56:03,502 [17] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-08 12:01:36,990 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-08 12:01:37,040 [23] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-08 12:14:50,216 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-08 12:14:51,411 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-08 12:14:59,497 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-08 12:15:10,049 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-08 13:37:31,937 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-08 13:37:31,975 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-08 13:41:39,150 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 13:43:14,914 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 13:43:36,651 [10] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-08 13:44:37,243 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 13:48:57,615 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 13:49:20,058 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 13:54:53,750 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:05:05,081 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:05:44,500 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:06:16,916 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:08:51,300 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:18:54,593 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:20:34,492 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:25:53,772 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:26:13,262 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:26:46,430 [5] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-08 14:27:29,458 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:32:15,977 [32] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-08 14:32:37,720 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:33:22,504 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 14:52:37,625 [23] ERROR User_Default [(null)] - Value cannot be null.
+Parameter name: source
+2015-09-08 14:54:27,463 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-08 16:50:44,997 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-08 16:50:45,036 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-08 18:10:56,320 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-08 18:10:56,344 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-10 18:42:11,329 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-10 18:42:19,913 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-10 18:42:37,065 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-10 18:44:57,448 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-10 18:44:57,500 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-10 18:57:26,258 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-10 18:57:26,309 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 13:00:24,833 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 13:00:24,982 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 13:14:02,296 [14] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-11 13:14:14,956 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 13:14:15,005 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 14:54:04,979 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 14:54:05,064 [30] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 16:54:23,075 [46] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 16:54:23,143 [46] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 17:17:52,696 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 17:17:52,806 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 17:26:50,970 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 17:26:51,059 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 18:12:56,297 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-11 18:13:01,779 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 18:13:01,817 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 18:31:24,076 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 18:31:24,125 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-11 18:35:44,903 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-11 18:35:44,953 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-12 10:40:11,208 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-12 10:40:11,332 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-12 10:51:14,768 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-12 10:51:14,811 [17] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-12 11:08:43,439 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-12 11:08:43,595 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-12 12:30:43,169 [38] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-12 12:30:53,399 [40] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-12 12:31:16,501 [40] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-12 12:31:35,142 [38] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-12 12:31:35,142 [38] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-12 12:43:07,165 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-12 12:43:07,196 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-13 12:34:46,239 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-13 12:34:46,325 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-13 13:35:25,048 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-13 13:35:25,127 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-13 13:45:28,642 [21] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-13 13:45:34,743 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-13 13:45:34,794 [21] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-14 09:56:33,314 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-14 09:56:33,432 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-14 10:01:36,516 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-14 10:01:36,563 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-14 15:59:21,322 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 15:59:34,662 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 15:59:53,003 [9] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:00:23,388 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:00:39,063 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:01:10,637 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:01:20,992 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:53:50,196 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:54:10,844 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:54:32,355 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 16:54:59,026 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 17:21:36,402 [18] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 17:21:44,487 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 17:21:54,500 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 17:22:05,173 [20] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-14 17:23:50,634 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-14 17:23:50,749 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-15 17:44:06,907 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-15 17:44:07,047 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 17:07:52,446 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 17:07:52,597 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 18:29:16,325 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 18:29:16,382 [27] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 18:32:38,505 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 18:32:38,567 [27] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 18:42:14,640 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 18:42:14,716 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 18:44:22,839 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 18:44:22,889 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 18:45:20,506 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 18:45:20,557 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 18:46:38,091 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-17 18:46:38,143 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-17 19:00:12,610 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-17 19:00:17,431 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-17 19:00:22,226 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-17 19:00:26,655 [8] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-17 19:02:42,042 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-19 16:44:47,092 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-19 16:44:47,267 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-19 18:58:36,554 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-19 18:58:36,627 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-21 12:55:39,935 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-21 12:55:40,034 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-21 12:57:45,171 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-21 12:57:45,237 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 14:35:46,178 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:36:00,922 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:36:18,366 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:36:40,284 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:36:46,871 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:37:04,217 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:37:22,339 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:38:23,632 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:38:34,076 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:38:46,716 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:39:10,100 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:39:21,303 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:40:22,768 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:40:33,657 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 14:41:01,322 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 16:12:50,339 [29] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-22 16:15:36,675 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 16:15:36,746 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 16:56:05,174 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 16:56:05,223 [21] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 17:16:01,456 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 17:16:01,511 [26] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 17:29:37,063 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 17:29:37,113 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 17:52:30,214 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 17:52:30,293 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 18:17:39,516 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 18:17:39,593 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 19:28:03,888 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-22 19:28:03,962 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-09-22 19:28:24,608 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-22 19:29:41,321 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-09-29 14:16:55,721 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-29 14:17:13,101 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-29 14:17:18,268 [10] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-29 14:17:26,881 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-29 14:18:45,606 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-29 14:18:45,686 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-09-29 14:18:55,804 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-09-29 14:18:55,852 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-10-12 11:01:44,653 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-10-12 11:01:44,751 [8] ERROR Default2 [(null)] - Thread was being aborted.
+2015-10-12 11:11:53,111 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-10-12 11:11:53,169 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-10-13 10:43:55,254 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-10-13 10:43:55,405 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-02 15:49:44,430 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-02 15:49:44,582 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 11:03:21,365 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-03 11:03:28,948 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 11:03:28,997 [9] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 11:59:01,865 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 11:59:01,893 [19] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 12:09:52,430 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 12:09:52,457 [13] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 12:17:46,702 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 12:17:46,703 [18] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 14:18:10,076 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 14:18:10,229 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 14:45:31,216 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 14:45:31,217 [14] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 17:36:02,208 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 17:36:02,235 [28] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 17:40:26,010 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 17:40:26,011 [30] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-03 18:30:56,387 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-03 18:30:56,422 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-04 10:34:57,510 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 10:34:57,600 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-04 10:40:03,678 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 10:40:03,679 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-04 11:32:49,506 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 11:36:43,733 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 11:38:05,587 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 13:07:30,959 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 13:07:31,231 [5] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-04 13:08:46,056 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-04 13:08:46,096 [20] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 09:52:28,835 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 09:52:29,008 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 10:09:57,263 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 10:09:57,351 [12] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 10:54:49,158 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 10:54:49,185 [28] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 12:12:17,187 [60] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 12:12:17,194 [60] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 13:56:35,467 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 13:56:35,740 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 14:31:25,441 [54] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 14:31:25,530 [54] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 14:36:03,672 [47] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-05 14:36:30,821 [54] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 14:36:30,824 [54] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 14:42:25,005 [54] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 14:42:25,006 [54] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 14:44:35,590 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 14:44:35,591 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 14:48:31,392 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 14:48:31,394 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 15:03:48,130 [52] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 15:03:48,132 [52] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 15:25:44,389 [54] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 15:25:44,390 [54] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 15:49:15,495 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 15:49:15,496 [31] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 15:54:41,513 [49] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 15:54:41,513 [49] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-05 18:00:36,047 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-05 18:00:36,126 [6] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-06 10:38:01,415 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-06 10:38:01,524 [10] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-07 14:50:38,940 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-07 14:50:39,013 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-09 12:03:35,227 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-09 12:03:35,353 [6] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-09 12:42:38,171 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-09 12:42:38,172 [33] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-16 10:33:11,681 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-16 10:33:11,813 [11] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-16 12:21:36,135 [48] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-16 12:21:36,171 [48] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-16 13:13:22,593 [34] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-16 13:13:22,632 [34] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-16 18:07:40,883 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-16 18:07:41,026 [15] ERROR Default2 [(null)] - Thread was being aborted.
+2015-11-20 16:22:44,611 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-20 16:24:54,141 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-20 16:26:08,401 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-20 16:47:41,798 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-20 16:50:18,951 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-20 17:21:55,336 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 12:37:08,625 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 12:39:36,280 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:29:42,250 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:30:13,227 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:38:36,590 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:41:29,761 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:41:44,236 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:43:03,914 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:47:17,860 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:47:25,320 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:48:09,655 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:48:45,996 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:50:56,808 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:51:30,265 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:53:57,271 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:54:16,394 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:54:48,221 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:55:13,853 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:57:23,229 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:57:44,363 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 14:59:43,777 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 14:59:52,732 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:06:31,434 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:06:41,553 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:13:19,785 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:13:57,203 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:16:18,913 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:16:28,342 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:24:47,351 [27] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-21 15:26:18,815 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:26:27,977 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:32:29,175 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:33:06,615 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:33:36,748 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:35:27,821 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:35:56,708 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:42:01,462 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:42:13,276 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:43:58,193 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:44:06,174 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:45:31,615 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:45:43,457 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:55:33,573 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:55:43,268 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 15:57:23,075 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 15:57:30,313 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 16:00:33,807 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 16:00:44,797 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 16:08:23,897 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 16:08:34,982 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 16:30:32,715 [67] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 16:30:41,976 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 16:35:23,700 [56] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 16:35:31,610 [54] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 16:58:39,750 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 16:58:50,371 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:01:37,258 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 17:01:54,048 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:17:51,734 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 17:18:13,177 [48] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:22:13,913 [49] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 17:22:25,857 [49] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:25:17,018 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 17:25:41,164 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:26:04,189 [51] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:31:19,394 [51] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 17:31:27,634 [51] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 17:32:33,860 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 17:32:44,074 [53] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 18:19:47,237 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 18:19:59,679 [52] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 18:21:01,548 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 18:21:09,481 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 18:21:45,401 [6] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-21 18:22:26,863 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-21 18:23:00,995 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 10:29:28,450 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 10:29:56,875 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 10:32:29,055 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 10:52:42,260 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 10:53:15,901 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 11:05:24,261 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 11:05:43,575 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 11:12:04,515 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 11:29:25,533 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 11:29:53,871 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:01:31,243 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:02:53,170 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:05:06,928 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:07:18,975 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:08:28,001 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:10:49,687 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:12:26,142 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:25:46,255 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:26:54,181 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:28:03,012 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:31:50,225 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:32:10,459 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:32:48,816 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 12:33:06,180 [35] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:35:25,428 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:36:13,794 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 12:36:49,599 [35] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:37:40,213 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:48:13,223 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:50:54,515 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:52:03,595 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:54:27,578 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:54:58,468 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:56:38,460 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 12:58:49,446 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:01:47,850 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:06:54,411 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:09:01,624 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:36:29,366 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:48:40,326 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:48:41,788 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 13:59:25,784 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 14:02:27,986 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 14:06:03,426 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 14:08:14,892 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 14:12:03,754 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 14:18:06,646 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:07:24,973 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 15:07:40,396 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:26:25,034 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:27:57,348 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:27:59,953 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:29:03,542 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:30:07,734 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:31:17,075 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:33:47,733 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:37:32,959 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:41:09,912 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:44:22,536 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:45:57,541 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:48:24,883 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 15:54:20,264 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:20:55,159 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:40:24,898 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:41:51,649 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:42:51,685 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:45:20,470 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:47:26,577 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:49:02,016 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:50:27,768 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:51:37,214 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:51:38,867 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:56:27,307 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 16:59:57,669 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:02:52,945 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:13:23,255 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:15:13,225 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:17:35,763 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:28:56,558 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:33:05,500 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:38:56,834 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:43:53,346 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:46:51,332 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:49:25,341 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:51:38,746 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:55:06,826 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 17:56:37,337 [31] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-11-23 18:00:48,333 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:00:49,711 [18] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-11-23 18:01:01,738 [6] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:01:01,915 [17] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-11-23 18:01:24,078 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:01:24,274 [25] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-11-23 18:01:46,268 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:01:46,448 [23] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-11-23 18:04:51,114 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:04:51,300 [17] ERROR Reports_frm_loadFullProductionReport [(null)] - Load report failed.
+2015-11-23 18:09:30,899 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-23 18:10:11,786 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:10:51,390 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:31:17,930 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:32:02,467 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:40:52,120 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:45:19,496 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:46:25,707 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-23 18:49:29,928 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 10:38:53,534 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 10:39:21,909 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 10:41:05,584 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 10:41:13,620 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 10:55:38,619 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 10:55:47,049 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:07:09,873 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:07:34,670 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:09:03,896 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:09:12,123 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:10:18,176 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:10:25,678 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:11:33,885 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:11:41,376 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:12:59,568 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:13:06,813 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:15:54,728 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:16:02,263 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:22:56,046 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:23:03,541 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:24:17,165 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:24:24,397 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:26:09,186 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:26:38,891 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:27:49,945 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:27:59,825 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:28:48,552 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:29:25,088 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:29:46,647 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:29:54,282 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:33:33,043 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:33:39,973 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:35:39,240 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:35:45,945 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:38:17,949 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:38:26,669 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:39:55,298 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:40:02,416 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:41:35,757 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:41:42,947 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:43:24,134 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:43:31,094 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:46:47,049 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:46:54,074 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:48:17,114 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:48:24,526 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:49:48,285 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:49:55,077 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:55:39,044 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:55:45,710 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 11:57:36,088 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 11:57:42,848 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:02:18,666 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:02:26,604 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:05:09,185 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:05:16,638 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:05:54,168 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:06:26,306 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:08:23,120 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:08:34,246 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:10:08,226 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:10:20,383 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:12:13,705 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:12:20,914 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:13:42,806 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:13:52,210 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:15:14,171 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:15:21,058 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:21:48,298 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:21:55,818 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:24:04,435 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:24:14,534 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:28:36,104 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:28:45,168 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:30:14,141 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:30:20,923 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:31:56,558 [34] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:32:03,576 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:34:56,679 [34] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:35:07,363 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:35:07,953 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:36:43,047 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:36:50,135 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:38:36,088 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:38:45,060 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:45:09,182 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:45:17,040 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:45:57,063 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:46:19,954 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:47:49,864 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:47:56,716 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:48:59,181 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:49:06,396 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:49:06,993 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:53:47,855 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:53:54,823 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:55:31,605 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:55:38,676 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 12:58:45,520 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 12:58:55,439 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 13:02:14,868 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 13:02:23,177 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 13:11:59,049 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 13:12:05,239 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 13:13:08,663 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 13:13:16,581 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 13:33:09,418 [53] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 13:33:18,660 [55] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 13:38:23,747 [55] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 13:38:33,589 [57] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 13:39:58,084 [51] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 13:40:05,431 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:01:12,516 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:02:43,580 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:05:40,365 [53] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:09:56,301 [55] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:10:03,810 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:11:39,698 [53] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:11:49,645 [52] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:13:18,063 [55] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:13:48,501 [55] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:15:30,719 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:15:37,818 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:18:01,224 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:18:09,282 [49] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:20:03,431 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:20:10,787 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:21:52,276 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:21:59,458 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:28:43,844 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:28:52,317 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:30:21,055 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:30:29,492 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:31:29,979 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:31:38,822 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:33:00,988 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:33:11,742 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:35:09,846 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:35:18,932 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:36:51,758 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:36:58,937 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:37:00,207 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:40:38,811 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:40:45,929 [51] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:43:57,838 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:44:05,973 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:46:21,230 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:46:27,743 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:47:36,086 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:47:42,991 [49] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:52:59,324 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:53:24,555 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:56:05,709 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:56:12,913 [49] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:57:35,331 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:57:43,018 [35] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 14:59:15,807 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 14:59:23,020 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:00:55,326 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:01:01,821 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:22:40,956 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:22:51,749 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:24:58,771 [34] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:25:05,665 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:36:19,474 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:36:27,120 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:37:40,564 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:37:48,101 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:46:51,137 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:47:00,436 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 15:53:45,110 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 15:53:52,545 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:07:55,459 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:08:03,467 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:13:30,359 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:13:36,798 [48] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:27:13,241 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:27:38,653 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:33:04,307 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:33:11,264 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:42:59,253 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:43:06,204 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:55:13,032 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:55:21,612 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 16:57:46,704 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 16:57:54,360 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:01:59,008 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:02:08,467 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:04:15,478 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:04:21,963 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:11:07,333 [37] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:11:14,187 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:14:10,637 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:14:18,307 [49] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:20:42,362 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:20:49,597 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:24:36,271 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:24:45,091 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:25:58,647 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:27:44,264 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 17:27:54,107 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-24 17:32:19,264 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-24 18:03:01,512 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:29:04,358 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:29:42,466 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:31:33,569 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:31:44,270 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:33:25,949 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:33:34,936 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:41:11,688 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:41:21,133 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:44:04,954 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:44:11,213 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:46:06,916 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:46:29,448 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:46:29,975 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:48:55,409 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:49:02,769 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:52:05,422 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:52:14,563 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:54:14,742 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:54:22,208 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 10:56:58,917 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 10:57:06,490 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:00:35,710 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:00:42,382 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:04:14,160 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:11:38,840 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:11:39,416 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:13:09,109 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:13:16,742 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:15:26,071 [38] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:15:33,648 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:17:10,661 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:17:17,481 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:24:20,224 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:24:26,968 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:29:12,162 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:29:19,505 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:31:08,394 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:31:15,447 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:32:44,038 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:32:51,989 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:33:58,618 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:34:06,992 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:36:34,844 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:36:41,330 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:38:07,674 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:38:16,041 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:48:59,185 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:49:17,534 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:49:22,528 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 11:59:11,261 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 11:59:36,192 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:01:54,257 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:02:04,333 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:04:49,027 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:04:56,047 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:07:28,524 [34] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:07:34,609 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:09:01,472 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:09:07,746 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:18:48,064 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:18:53,757 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:19:00,614 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:23:22,672 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:23:29,736 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:25:36,162 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:25:42,196 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:30:49,682 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:30:56,109 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:34:03,233 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:34:09,375 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:36:07,310 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:36:17,442 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:41:10,910 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:41:19,364 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:43:49,597 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:43:56,037 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:46:23,365 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:46:30,412 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:53:43,491 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:54:10,149 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:56:15,134 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:56:23,258 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:57:49,458 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:57:57,710 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 12:59:39,920 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 12:59:48,024 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:02:14,708 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:02:22,951 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:02:23,346 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:02:33,398 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:09:05,948 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:09:13,416 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:32:17,272 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:32:23,607 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:34:15,689 [36] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:34:22,450 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:34:23,354 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:36:48,908 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:36:55,127 [35] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:38:22,466 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:38:30,312 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:40:17,772 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:40:25,238 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:46:06,193 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:46:12,920 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:48:18,836 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:48:26,079 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:50:08,372 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:50:15,309 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:55:35,676 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:55:43,262 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 13:58:09,592 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 13:58:35,693 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:02:54,165 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:03:01,286 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:06:21,697 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:06:29,506 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:12:53,858 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:13:02,061 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:14:52,489 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:14:59,824 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:24:00,704 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:24:07,777 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:25:02,978 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:25:10,621 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:28:42,819 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:28:50,041 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:38:13,267 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:38:20,248 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:40:16,376 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:40:23,408 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:42:37,325 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:42:44,362 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:44:22,681 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:44:29,831 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:46:28,359 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:46:35,532 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:48:02,189 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:48:09,336 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:57:39,126 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:57:47,460 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 14:59:48,311 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 14:59:55,799 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:02:19,476 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:02:45,561 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:04:30,517 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:04:37,602 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:18:05,864 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:18:14,215 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:21:34,440 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:22:01,847 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:25:08,233 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:25:18,278 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:28:12,343 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:28:20,630 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:30:26,690 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:30:34,304 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:31:09,586 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:31:17,095 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:37:54,433 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:38:03,535 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 15:45:58,983 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:46:44,921 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 15:46:53,471 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 16:15:20,566 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 16:21:01,627 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 16:21:08,598 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 16:47:18,406 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 16:47:25,997 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 16:55:15,607 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 16:55:22,866 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 17:43:55,742 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-25 17:44:03,114 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 17:51:03,864 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-25 17:52:35,114 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 11:24:07,387 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 11:24:48,504 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 11:42:35,773 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 11:43:01,270 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 11:44:43,812 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 11:44:52,173 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 11:47:35,767 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 11:47:42,630 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 11:51:57,900 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 11:52:04,676 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 11:57:33,144 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 11:57:40,591 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:00:51,605 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:00:58,141 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:07:42,410 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:07:48,780 [38] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:10:33,919 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:10:41,165 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:12:04,838 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:12:10,458 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:13:10,843 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:13:17,484 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:15:37,652 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:15:44,934 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:28:39,297 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:28:46,478 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:31:21,393 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:31:27,941 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:46:43,410 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:46:50,086 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:48:55,333 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:49:02,785 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:50:55,218 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:51:01,810 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:53:14,242 [34] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:53:20,870 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:55:53,210 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:56:00,845 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:56:51,750 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:56:57,868 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 12:58:58,550 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 12:59:04,979 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:03:08,696 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:03:31,307 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:05:48,966 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:05:57,178 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:08:02,647 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:08:14,336 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:10:44,531 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:11:07,799 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:11:08,765 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:13:40,269 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:13:47,410 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:14:38,460 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:15:08,157 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:15:32,899 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:23:33,810 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:23:52,165 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:26:11,769 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:26:19,741 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:55:08,347 [44] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:55:22,892 [45] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:56:55,679 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:57:06,291 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:58:37,183 [41] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 13:58:45,178 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 13:59:57,226 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:00:04,065 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:02:17,842 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:02:29,114 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:03:38,679 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:03:46,096 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:05:22,420 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:05:29,208 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:06:27,799 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:06:35,807 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:07:55,180 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:08:01,859 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:08:43,422 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:08:50,255 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:09:54,549 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:10:01,145 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:12:03,451 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:12:44,143 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:13:54,498 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:14:06,376 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:14:44,407 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:14:51,308 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:16:32,634 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:16:39,881 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:22:47,977 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:22:56,319 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:26:23,048 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:26:29,948 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:27:38,776 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:27:46,124 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:31:49,593 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:31:55,996 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:35:27,434 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:35:34,806 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:36:45,903 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:36:52,507 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:42:25,399 [11] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:42:31,650 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:42:38,264 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:43:59,358 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:44:05,612 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:45:07,920 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:45:14,552 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:46:03,024 [16] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:46:12,714 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:46:18,791 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:47:32,036 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:47:38,807 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:48:43,116 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:48:48,885 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:48:55,461 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:49:47,965 [24] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:49:52,827 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:49:58,993 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:51:47,318 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:51:52,675 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:51:59,038 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:53:23,054 [28] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:53:28,505 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:53:34,322 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:54:32,216 [31] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:54:38,520 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:54:46,325 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:55:34,858 [37] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:55:41,671 [33] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:55:03,410 [37] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 14:55:08,882 [40] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:55:16,401 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:56:15,530 [39] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:56:22,482 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 14:58:52,254 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 14:58:59,528 [36] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:04:06,930 [28] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 15:04:13,621 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:04:20,820 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:05:27,383 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:05:34,080 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:06:48,436 [17] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 15:06:53,953 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:07:00,608 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:08:16,145 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:08:23,758 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:09:56,858 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 15:10:02,377 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:10:08,731 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:11:05,408 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:11:12,316 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:17:46,021 [46] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:17:52,916 [44] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:20:10,562 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:20:17,241 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:22:51,320 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:22:57,869 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:28:24,122 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:28:30,937 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:32:42,134 [27] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 15:32:48,551 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:32:55,012 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:36:00,686 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 15:36:06,467 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:36:13,025 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:38:41,458 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:38:48,979 [38] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:50:10,764 [39] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:50:27,947 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:50:40,599 [40] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 15:53:09,906 [38] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:59:30,250 [12] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 15:59:37,334 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 15:59:46,649 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:00:11,831 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:00:18,449 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:03:50,928 [22] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 16:03:56,287 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:04:03,042 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:05:51,442 [31] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 16:05:56,727 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:06:03,109 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:09:54,899 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:10:01,815 [18] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:11:14,236 [42] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:11:21,934 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:13:08,034 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:13:33,956 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:16:32,426 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-26 16:16:37,665 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:16:44,150 [20] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:17:43,284 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:17:49,867 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:18:20,536 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:18:27,767 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:19:00,001 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:19:06,666 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:20:45,932 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:20:52,680 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-26 16:23:36,881 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-26 16:24:10,579 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 10:46:39,366 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 10:47:05,707 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 10:47:50,397 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 10:49:51,522 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 10:50:22,712 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 10:51:56,637 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 10:52:03,802 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 11:01:49,764 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 11:01:57,113 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 11:26:16,405 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 11:26:28,008 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 11:55:46,713 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 11:57:37,710 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 11:57:51,636 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 11:59:59,879 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:03:48,318 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:05:01,774 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:05:17,791 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:06:22,647 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:06:33,474 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:06:42,697 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:14:19,466 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:23:53,256 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:24:10,712 [25] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:24:19,163 [30] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:24:40,858 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:24:54,703 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:27:30,152 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:28:36,811 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:48:34,310 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:49:06,285 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 12:58:23,980 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 12:59:11,793 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:00:29,232 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:02:45,683 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:03:01,844 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:06:40,716 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:07:38,715 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:07:49,284 [8] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:11:15,841 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:11:24,477 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:11:49,564 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:12:25,419 [27] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:13:05,989 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:14:26,028 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:14:32,895 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:15:00,080 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:15:09,617 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:22:09,928 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:22:23,811 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:38:28,215 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:38:41,557 [17] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:39:58,835 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:40:08,917 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:40:55,234 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:41:04,792 [9] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 13:41:59,822 [17] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:43:24,907 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 13:59:55,335 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:00:05,787 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:00:56,883 [33] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:01:05,527 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:02:00,834 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:02:11,926 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:02:55,950 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:03:07,908 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:03:46,882 [27] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:03:55,456 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:09:17,339 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:15:17,239 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:16:16,573 [15] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:18:01,576 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:18:23,599 [32] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:21:39,411 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:22:45,137 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:22:56,407 [28] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:23:38,193 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:27:26,371 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:28:19,776 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:33:44,842 [20] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:34:38,934 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:35:39,635 [31] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:38:09,984 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:43:16,389 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:43:40,210 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:43:48,614 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:45:31,763 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:45:39,954 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 14:51:28,902 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 14:51:40,642 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:01:36,302 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:02:15,828 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:03:03,395 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:05:05,686 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:05:13,728 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:05:40,794 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:05:49,596 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:07:27,819 [19] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-27 15:07:38,815 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:33:04,633 [29] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:33:31,066 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:36:08,610 [21] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:36:22,287 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:37:12,691 [25] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:37:23,378 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:39:46,609 [16] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:40:00,860 [15] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:41:22,208 [16] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-27 15:41:28,687 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:41:40,644 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:41:46,658 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:41:54,159 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:42:36,598 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:42:48,941 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:43:26,723 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:43:36,289 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:50:24,723 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:51:58,112 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:51:51,227 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:52:16,428 [11] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:54:05,950 [5] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-27 15:54:11,974 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:54:35,273 [26] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:56:05,213 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:56:14,633 [23] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 15:57:09,863 [26] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 15:57:18,077 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:05:46,125 [10] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:05:54,693 [10] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:10:12,005 [9] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:10:25,179 [13] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:11:01,393 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:11:09,714 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:11:18,285 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:11:30,204 [29] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:12:19,113 [8] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:17:42,654 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:17:52,768 [14] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:19:11,663 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:19:21,067 [16] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:37:56,698 [12] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:38:05,085 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:42:00,051 [22] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:43:27,213 [37] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:49:28,446 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:51:15,901 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:54:44,677 [37] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:55:02,736 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 16:55:54,312 [32] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:56:32,498 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:58:28,165 [30] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:59:10,166 [23] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:59:46,311 [14] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 16:59:55,135 [34] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 17:01:11,312 [24] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 17:01:35,756 [24] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 17:03:07,796 [24] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-27 17:03:15,780 [35] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 17:04:03,368 [21] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 17:05:31,923 [37] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 17:06:53,123 [37] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 17:08:56,589 [19] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 17:09:38,230 [28] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-27 17:09:45,017 [19] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 17:10:19,612 [22] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 17:16:25,893 [18] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 17:17:42,326 [31] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 18:11:02,403 [28] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 18:12:08,803 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 18:25:08,692 [11] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 18:26:04,812 [13] ERROR Default2 [(null)] - Cannot find table 0.
+2015-11-27 18:26:10,826 [13] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 18:27:02,054 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 18:27:09,504 [5] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 18:27:20,793 [5] INFO Default2 [(null)] - User 'Admin' Logged in successfully.
+2015-11-27 18:27:27,735 [12] ERROR User_Default [(null)] - Thread was being aborted.
+2015-11-27 18:29:33,816 [5] ERROR User_Default [(null)] - Thread was being aborted.
